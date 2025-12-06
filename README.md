@@ -7,7 +7,7 @@
 
 **Cybersecurity Enthusiast | ML Developer | Full-Stack Developer**
 
-[🌐 Portfolio](https://github.com/maayank-yadavv) • [💼 LinkedIn](www.linkedin.com/in/maayank-yadavv) • [📷 Instagram](https://www.instagram.com/maayank_yadavv) • [📧 Email](101mayankyadav.gmail.com)
+[🌐 Portfolio](mayank-yadavv.netlify.app) • [💼 LinkedIn](www.linkedin.com/in/maayank-yadavv) • [📷 Instagram](https://www.instagram.com/maayank_yadavv) • [📧 Email](101mayankyadav.gmail.com)
 
 </div>
 
