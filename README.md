@@ -131,7 +131,7 @@ I'm always interested in:
 
 **Feel free to reach out or check out my projects!**
 
-[📧 Email](101mayankyadav@gmail.com) | [💼 LinkedIn](www.linkedin.com/in/maayank-yadavv) | [📷 Instagram](#https://www.instagram.com/maayank_yadavv | [🌐 Portfolio](mayank-yadavv.netlify.app)
+[📧 Email](101mayankyadav@gmail.com) | [💼 LinkedIn](www.linkedin.com/in/maayank-yadavv) | [📷 Instagram](https://www.instagram.com/maayank_yadavv | [🌐 Portfolio](mayank-yadavv.netlify.app)
 
 </div>
 
