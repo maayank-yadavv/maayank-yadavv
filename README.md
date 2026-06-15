@@ -28,28 +28,6 @@ I love building innovative solutions that combine security, performance, and use
 
 ## 🎯 Key Projects
 
-### 🛡️ [Phishing Website Detector](https://github.com/maayank-yadavv/Phishing-Website-Detector)
-**Machine Learning-based URL Security Scanner**
-- 95%+ accuracy using Random Forest & Gradient Boosting
-- 30+ URL and content-based features
-- CLI tool, Web interface, and REST API
-- Real-time phishing detection
-
-### 🔨 [The Armory - Network Security Toolkit](https://github.com/maayank-yadavv/The-Armory)
-**Comprehensive Penetration Testing Suite**
-- MAC Address Changer
-- Integrated Network & Port Scanner
-- ARP Spoofer for MITM attacks
-- Multi-threaded scanning
-- Real-time attack statistics
-
-### 🔐 [SecureVault](https://github.com/maayank-yadavv/SecureVault)
-**Military-Grade Password Manager**
-- AES-256 Encryption
-- Two-Factor Authentication
-- Master Password Protection
-- Secure Storage & Retrieval
-- Cross-platform support
 
 ### 📚 [CODE TANTRA SOLUTIONS](https://codetantrasolution.netlify.app)
 **Secure Educational Portal**
